@@ -1,8 +1,8 @@
 CC     = gcc
 CFLAGS = -pthread -Wall -Wextra
 
-TARGET = group0_bankers
-SRC    = group0_bankers.c
+TARGET = group27_bankers
+SRC    = group27_bankers.c
 
 all: $(TARGET)
 
